@@ -1,1 +1,1 @@
-Simple web-site, developed using native HTML5,CSS,JS + Boostrap.
+Simple web-site, developed using native HTML5,CSS,JS + Bootstrap.
